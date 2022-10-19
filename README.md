@@ -1,1 +1,1 @@
-# price-card
+# price-cart
